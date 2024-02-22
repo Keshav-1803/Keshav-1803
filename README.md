@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, Python, React.js**
 
-- 👯 I’m looking to collaborate on [Github_Profile_finder](https://github.com/Keshav-1803/Github_Profile_finder)
+- 🧑‍💻 Past Project [Github_Profile_finder](https://github.com/Keshav-1803/Github_Profile_finder)
 
-- 🤝 I’m looking for help with [Calculator](https://github.com/Keshav-1803/Calculator)
+- 🧑‍💻 Past Project [Calculator](https://github.com/Keshav-1803/Calculator)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keshav-1803](https://github.com/Keshav-1803)
 
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/keshav-agarwal1803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-agarwal1803" height="30" width="40" /></a>
 <a href="https://instagram.com/xx_keshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx_keshav" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chronomancer coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chronomancer coder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@chronomancercoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chronomancercoder" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/keshav1803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="keshav1803" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/keshav_1803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="keshav_1803" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/keshav_1803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshav_1803" height="30" width="40" /></a>
